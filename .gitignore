@@ -216,3 +216,20 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project data - do not upload confidential datasets
+data/
+*.csv
+*.xlsx
+*.xls
+*.parquet
+*.feather
+*.json
+
+# Outputs that may contain sensitive or large derived data
+outputs/
+figures/
+*.html
+
+# Word temporary files
+~$*.docx
