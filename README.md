@@ -11,7 +11,7 @@ The raw datasets are not included in this repository due to confidentiality and 
 
 ## Repository contents
 
-- `Ghost2Champion.ipynb`: main analysis notebook
+- `app_engagement_analysis.ipynb`: main analysis notebook
 - `requirements.txt`: Python packages used
 - `data/README.md`: data access note
 - `outputs/figures/`: exported figures
